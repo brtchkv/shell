@@ -2,4 +2,4 @@
 My learning notes on shell.
 
 Check out the website version. 
-https://brtchkv.github.io/Shell/
+https://brtchkv.github.io/shell/
